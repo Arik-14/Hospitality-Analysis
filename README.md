@@ -41,6 +41,18 @@ Create relevant insights that are not provided in the metric list/mock-up dashbo
 
 5.Learnt about telling data driven stories with this dashboard.
 
+##  Insights & Key Findings
+1. A significant Revenue drop in the month of July compared to the month of May.
+2. Successful Booking rate is dropped in the month of July.
+3. Realization % has increased in the month of July compared to the month of May but ADR (Average Daily Rate) has decreased.
+4. The cancellation % is surprisingly the same throughout all month (24% - 25%) but occupancy % and total capacity is dropped. Atliq management should improve it for better utilization of capacity.
+5. Make your trip has contributed more revenue considering to all others booking platform but major contributions have been made by unrecognized sources.
+6. Atliq Exotica and Atliq Palace contributed the highest revenue among all hotels.
+7. Mumbai city has contributed more revenue among others.
+8. Bangalore has the higher cancellation % but contributed second highest revenue.
+9. Elite has the highest average rating and makes a major contribution in revenue.
+10. Atliq Seasons is a business class hotel which has a low average rating, Atliq management should improve it for better utilization.
+
 
 
 
