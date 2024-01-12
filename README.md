@@ -18,3 +18,33 @@ Create the metrics according to the metric list.
 Create a dashboard according to the mock-up provided by stakeholders.
 Create relevant insights that are not provided in the metric list/mock-up dashboard.
 
+## Data Model
+![Screenshot 2024-01-12 140132](https://github.com/Arik-14/Hospitality-Analysis/assets/142299250/82f20eeb-9dc5-4d30-80da-0785d30995b0)
+
+## Overall Analysis View
+
+![Screenshot 2024-01-12 140155](https://github.com/Arik-14/Hospitality-Analysis/assets/142299250/a1981bfd-7ef0-49df-a8c0-408e79856e32)
+
+## Revenue Analysis View
+![Screenshot 2024-01-12 140228](https://github.com/Arik-14/Hospitality-Analysis/assets/142299250/d3660ab5-c271-400c-b8bc-24a0a4372595)
+
+- ****
+  What I have learned from this Project:-
+
+1.Most important things I have learnt - gain domain knowledge about Hospitality industry.
+
+2.Created four different dashboard - Overall,Revenue,Booking,Rating Analysis.
+
+3.Understanding the business(domain) knowledge according to the given data.
+
+4.Learnt about page navigation, bookmarks, filter.
+
+5.Learnt about telling data driven stories with this dashboard.
+
+
+
+
+
+
+
+
