@@ -1,5 +1,5 @@
 # Hospitality-Analysis
-## As part of the codebasics september month resume challenge, I have worked on this analysis project:
+## As part of the codebasics resume challenge, I have worked on this analysis project:
 
 
 - **** 
